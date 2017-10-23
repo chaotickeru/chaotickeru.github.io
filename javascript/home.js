@@ -1,1 +1,1 @@
-window.location.replace("https://chaotickeru.github.io/home/index.html");
+window.location.replace("https://chaotickeru.github.io/home/");
